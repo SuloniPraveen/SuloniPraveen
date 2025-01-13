@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Development Tools**
 
-- 📫 How to reach me **sulonipr@usc.edu**
+- 📫 You can reach me **sulonipr@usc.edu**
 
 - ⚡ Fun fact **I love beaches**
 
