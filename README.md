@@ -1,9 +1,9 @@
 <h3 align="left">Hi 👋, I'm Suloni Praveen</h1>
 <h4 align="left">I am a passionate dedicated Master's Computer Science student at the University of Southern California, with a strong foundation in Web Development and Machine Learning</h3>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 👯 I’m looking to collaborate on **Development Tools**
+- 👯 Ask me anything about **Full Stack applications, Databases, Web Search Engines, Machine Learning and Algorithms** 
 
 - 📫 You can reach me **sulonipr@usc.edu**
 
