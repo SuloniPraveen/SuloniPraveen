@@ -94,11 +94,9 @@ Built a RAG-based pipeline that extracts structured insights from research paper
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SuloniPraveen&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuloniPraveen&layout=compact&theme=tokyonight"/>
 
